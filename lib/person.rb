@@ -18,4 +18,4 @@ end
 
 beyonce = Person.new
 beyonce.name = "Beyonce"
-beyonce.jon = "Singer"
+beyonce.job = "Singer"
