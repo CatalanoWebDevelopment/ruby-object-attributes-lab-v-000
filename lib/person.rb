@@ -11,10 +11,11 @@ class Person
     @job = job
   end
 
-  def job 
+  def job
     @job
   end
 end
 
 beyonce = Person.new
 beyonce.name = "Beyonce"
+beyonce.jon = "Singer"
