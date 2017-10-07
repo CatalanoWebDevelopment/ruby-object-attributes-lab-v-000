@@ -11,3 +11,5 @@ class Dog
     "#{name}".strip
   end
 end
+
+fido=Dog.new
