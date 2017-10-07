@@ -3,7 +3,11 @@ class Person
     @name = name
   end
 
-  def name 
+  def name
     @name
   end
 end
+
+beyonce = Person.new
+beyonce.name = "Beyonce"
+
